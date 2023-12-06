@@ -9,7 +9,7 @@
 ### Links
 
 
-- Live Site URL: [Add live site URL here]((https://goat3ggs.github.io/qr-code-component/))
+- Live Site URL: [https://goat3ggs.github.io/qr-code-component/]
 
 ### Built with
 
